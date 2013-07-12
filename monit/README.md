@@ -1,4 +1,4 @@
-OpenStack-Monitoring
+puppet-monit
 ====================
 
 Usage :
